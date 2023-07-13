@@ -16,7 +16,7 @@ This React, Typescript, & Node.js project is a simple form where a user can ente
 - Axios
 - CORS
 - Express
-- Luhm
+- Luhn
 - Prettier
 
 ## How To Run
