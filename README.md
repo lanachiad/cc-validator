@@ -24,6 +24,7 @@ This React, Typescript, & Node.js project is a simple form where a user can ente
 1. Clone this repository to your local directory.
 2. In the root directory of this project, run the following command in your preferred terminal to launch the project (frontend):
    ```
+   yarn install
    yarn start
    ```
 3. In the `api/` directory, run the following command in another terminal window to boot up the API server (backend):
